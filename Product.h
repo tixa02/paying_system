@@ -19,7 +19,7 @@ public:
     virtual std::string get_info() const = 0;
     virtual double get_cost() const noexcept = 0;
 protected:
-    ProductInfo m_product_info;
+    const ProductInfo& m_product_info;
 };
 
 class WeightProduct: public Product{
