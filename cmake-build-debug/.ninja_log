@@ -1,0 +1,11 @@
+# ninja log v5
+754	813	1655061529391155568	paying_system	beb6cf547b23d70b
+2	753	1655061529327545397	CMakeFiles/paying_system.dir/main.cpp.o	a9b66ca0e1327f85
+7	786	1655063307427145410	CMakeFiles/paying_system.dir/main.cpp.o	a9b66ca0e1327f85
+786	834	1655063307479310084	paying_system	beb6cf547b23d70b
+7	2191	1655382557478798481	CMakeFiles/paying_system.dir/main.cpp.o	a9b66ca0e1327f85
+2192	2430	1655382557720988431	paying_system	beb6cf547b23d70b
+2	891	1655382882192989925	CMakeFiles/paying_system.dir/main.cpp.o	a9b66ca0e1327f85
+891	956	1655382882263707554	paying_system	beb6cf547b23d70b
+6	739	1655383408336679925	CMakeFiles/paying_system.dir/main.cpp.o	a9b66ca0e1327f85
+740	789	1655383408390233971	paying_system	beb6cf547b23d70b

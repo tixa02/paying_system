@@ -9,10 +9,10 @@ public:
         static PriceBase instance; // тут сработает дефолтный конструктор
         return instance;
     }
-    WeightProduct& get_product_weight(const std::string& Name) {
+    const WeightProduct& get_product_weight(const std::string& Name) const{
         return m_products_weight_price.at(Name);
     }
-    AmountProduct& get_product_amount(const std::string& Name){
+    const AmountProduct& get_product_amount(const std::string& Name) const{
         return m_products_amount_price.at(Name);
     }
 protected:

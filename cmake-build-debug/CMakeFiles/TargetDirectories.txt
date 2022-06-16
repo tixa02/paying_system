@@ -1,0 +1,3 @@
+/Users/tikhonkondratev/Documents/paying_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tikhonkondratev/Documents/paying_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tikhonkondratev/Documents/paying_system/cmake-build-debug/CMakeFiles/paying_system.dir
