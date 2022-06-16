@@ -8,7 +8,6 @@ int main() {
     std::cout << std::boolalpha << order.empty() << std::endl;
     order.add_position(std::make_unique<WeightPosition>(priceBase.get_product_weight("Apple"), 0.5));
     order.add_position(std::make_unique<AmountPosition>(priceBase.get_product_amount("Pencil"), 2));
-
     order.get_info();
 
     order.add_position(std::make_unique<WeightPosition>(WeightPosition(
